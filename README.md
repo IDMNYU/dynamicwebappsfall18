@@ -24,7 +24,6 @@ This is a living document, as are the materials in this course repository. There
 
 ## Course Pre-requisites
 
-Basic computer knowledge. Basic familiarity with any programming/scripting language is preferred but no required.
 
 ## Course Description
 
