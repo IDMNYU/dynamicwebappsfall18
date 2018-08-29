@@ -6,7 +6,7 @@
 
 #### Sept 11 & 13
 
-#### Sept 18 & 21
+#### Sept 18 & 20: Sept 20 special session on accessibility with Claire Kearney-Volpe
 
 #### Sept 25 & 27
 
