@@ -154,15 +154,13 @@ You can find the official academic calendar [here](https://www.nyu.edu/registrar
 
 **Monday, September 17, 2018**  - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Fall 2018 classes and not receive a grade of 'W.' Last day of active waitlists. Last day to add/drop on Albert.
 
-**Monday, October 8, 2018** -   Fall Recess
-No classes scheduled 
+**Monday, October 8, 2018** -   Fall Recess, no classes scheduled 
 
 **Tuesday, October 9, 2018** - NYU Legislative Day. 
 Classes meet according to a Monday schedule. (This class will not meet.)
 
 **Monday, November 5, 2018** - Last day to use the Term Withdrawal Form to submit a spring semester term withdrawal request or submit a request to withdraw from a course. Students should consult the academic calendar of their home school for specific deadlines pertaining to course withdrawal for the term
 
-**Wednesday, November 21-Friday, November 23, 2018** - Thanksgiving Recess
-No classes scheduled
+**Wednesday, November 21-Friday, November 23, 2018** - Thanksgiving Recess, no classes scheduled
 
 **Friday, December 14** - Last day of Fall 2018 Classes
