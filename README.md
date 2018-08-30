@@ -23,9 +23,10 @@
 This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Slack) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
 
 ## Course Pre-requisites
-
+Pre-requisite: DM-UY.2193, Intro to Web Development
 
 ## Course Description
+In this course, students will bridge the gap between client and server, building dynamic web application front-ends powered by back-end servers. 
 
 ### Program Learning Objectives
 
@@ -57,9 +58,22 @@ By the end of the course, students will be able to:
 4 - Create an internal developer / creative community
 
 
-### Course Objectives**
+### Course Objectives
 
 
+This course will reinforce or introduce students to:
+* Dynamic front-end development using Javascript
+
+* Server application development to support a web front-end
+
+* version control through git and github
+
+* current content management system platforms 
+
+This course will help students to:
+* understand application development process from conception to launch
+
+* develop a vocabulary to evaluate and critique web applications
 
 
 ### Course Structure
