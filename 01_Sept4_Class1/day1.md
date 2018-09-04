@@ -6,6 +6,15 @@
 
 * What are we doing in this class?
 
+* Learning Goals:
+  * Why am I in this class? Why have I chosen to be sitting here NOW?
+  
+  * What do I hope I will learn?
+
+  * What are my goals?
+  
+  * What content do I think will help me accomplish my learning goals?
+  
 * Go over syllabus & class requirements. This is a contract between students + professor, so it is important we're all on the same page!
 
 * Javascript Assessment 
