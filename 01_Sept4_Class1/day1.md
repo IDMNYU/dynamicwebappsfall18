@@ -6,6 +6,8 @@
 
 * What are we doing in this class?
 
+* [Slides from today](https://docs.google.com/presentation/d/16ccMoJ8wjWh-XSApv_AkmBvB5ImHfoqFN-1SlGIKaIg/edit?usp=sharing)
+
 * Learning Goals:
   * Why am I in this class? Why have I chosen to be sitting here NOW?
   
