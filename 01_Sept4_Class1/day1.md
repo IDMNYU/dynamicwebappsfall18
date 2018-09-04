@@ -24,3 +24,12 @@
 1. Find a compelling web app. Test it, try to find its weaknesses. Decide why you like it. Decide what you’d improve upon. Put together a 5-min presentation on this app. This presentation will count toward your class presentation points.
 
 2. Complete one [Learning Log](https://github.com/IDMNYU/dynamicwebappsfall18/blob/master/learninglogs.md) that will assist you as a refresher on the prerequisites for this class. Think about what you learned in the Intro class. Think about what you may have forgotten. Do you remember HTML/CSS? Did the Javascript Assessment reveal any gaps in your knowledge? If you feel fully up to speed, you may try an extension of one of these topics.
+
+Some suggestions:
+
+* [Intro to Javascript, Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+* [Modern Javascript Tutorial](https://javascript.info/)
+* [Intro to Javascript, Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
+* [Re-introduction to JS, Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+Feel free to share any helpful tutorials/resources in our class Slack as you find them!
