@@ -100,7 +100,7 @@ We will have weekly assignments that are relevant to material from the previous 
 
 **Mid-Term Project 20%**
 
-The midterm assignment will be a project that demonstrates a working knowledge of HTML and CSS elements. This project must be completed, published, and presented.
+The midterm assignment will be a project that demonstrates a working knowledge server-side programming. This project must be completed, published, and presented.
 
 **Participation and Attendance 20%**
 
