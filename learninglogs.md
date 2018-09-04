@@ -2,7 +2,7 @@
 
 Students should have 10 Learning Logs by the end of the semester. Plan on doing one every week. Every student will also give at least one five-minute Learning Log presentation for the class.
 
-Learning Logs can be around any client-side web topic we have covered in class where you need more clarity or want a deeper dive. I will update this file with suggestions as the course moves forward.
+Learning Logs can be around any web topic we have covered in class where you need more clarity or want a deeper dive. I will update this file with suggestions as the course moves forward.
 
 To submit a Learning Log:
 
