@@ -1,4 +1,4 @@
-This is just so we can assess the level of knowledge the class is coming in with, and adjust our pace accordingly - it's not for a grade! Please upload a .js file that completes the following tasks:
+This is just so we can assess the level of knowledge the class is coming in with, and adjust our pace accordingly - it's not for a grade! Please create a .js file that completes the following tasks:
 
  1) Create new variable called name and assign it a string with your name in it.
 
