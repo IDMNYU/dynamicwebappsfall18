@@ -6,7 +6,7 @@ We declare variables with the ```var``` keyword. You don't need to declare varia
 
 ```javascript
 var name; 				// declare an empty variable
-name = "Sam";				// define it
+name = "Sarah";				// define it
 
 // You can also declare and define in a single line
 
