@@ -8,9 +8,10 @@
 
 * Questions that emerged from Learning Logs
 
-* Javascript concept review: variables, strings, arrays, if/else, functions
 
 ### Homework
+
+The following assignment will be due on Thursday. However, if you feel ready to tackle it now, please feel free. Otherwise, make sure you complete a Learning Log that covers concepts that are foundational to Javascript such as arrays, loops, functions.
 
 For this assignment, please use a web-based editor such as [Repl.it](https://repl.it/) or [JsFiddle](https://jsfiddle.net/) to code and save your solutions. You will be printing the answers to the console. Submit the link to your work via NYU Classes.
 
