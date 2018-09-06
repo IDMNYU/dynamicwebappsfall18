@@ -27,7 +27,7 @@ var firstName = "Sarah";
 var lastName = "Dahnke"
 
 // concatenate strings
-var fullName = firstName + " " + lastName; // returns "Sam Lavigne"
+var fullName = firstName + " " + lastName; // returns "Sarah Dahnke"
 
 // access a character of a string
 var secondLetter = fullName[1];
