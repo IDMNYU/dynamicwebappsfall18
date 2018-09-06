@@ -88,6 +88,26 @@ function sayHi(name) {
 var helloMessage = sayHi("Sam");
 ```
 
+### Functions can contain control flow
+
+Conditional statements can create decision making inside of your program.
+
+```javascript 
+function virtualDoor(doorName) {
+    if ( doorName === 'tacos') {
+        console.log('yummy tacos');
+    } else if (doorName === 'pizza') {
+        console.log('yay pizza')
+    } else if ( doorName === 'McDonalds') {
+        console.log('no bueno');
+    } else {
+        console.log('im hungry');
+    }
+};
+
+virtualDoor('pizza') // prints 'yay pizza' to the console; changing the parameter will print the console statement that pertains to that parameter
+
+
 
 ### Functions are variables
 
