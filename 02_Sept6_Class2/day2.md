@@ -10,7 +10,7 @@
 
 ### Homework
 
-For this assignment, please use a web-based editor such as [Repl.it](https://repl.it/) or [JsFiddle](https://jsfiddle.net/) to code and save your solutions. You will be printing the answers to the console. Submit the link to your work via NYU Classes
+For this assignment, please use a web-based editor such as [Repl.it](https://repl.it/) or [JsFiddle](https://jsfiddle.net/) to code and save your solutions. You will be printing the answers to the console. Submit the link to your work via NYU Classes.
 
 You'll create a simple word guessing game where the user gets infinite tries to guess the word (like Hangman without the hangman, or like Wheel of Fortune without the wheel and fortune).
 
