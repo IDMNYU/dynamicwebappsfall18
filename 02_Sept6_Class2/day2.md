@@ -1,10 +1,12 @@
 ## Day 2
 
-* Learning Logs: Questions?
+* Questions about expectations, syllabus, etc?
 
 * Web app presentations
 
 * Javascript Assessment review
+
+* Questions that emerged from Learning Logs
 
 * Javascript concept review: variables, strings, arrays, if/else, functions
 
