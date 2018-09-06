@@ -106,7 +106,7 @@ function virtualDoor(doorName) {
 };
 
 virtualDoor('pizza') // prints 'yay pizza' to the console; changing the parameter will print the console statement that pertains to that parameter
-
+```
 
 
 ### Functions are variables
