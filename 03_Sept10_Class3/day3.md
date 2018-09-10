@@ -17,6 +17,8 @@ JS Foundations Review
 
 Command Line/Unix
 
+Physics exam date?
+
 ### Homework
 
 * Complete the [Word Guesser assignment from Day 2](https://github.com/IDMNYU/dynamicwebappsfall18/blob/master/02_Sept6_Class2/day2.md). Remember to submit your work via NYU Classes.
