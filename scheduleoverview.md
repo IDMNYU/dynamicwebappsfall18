@@ -2,9 +2,9 @@
 
 *NOTE: Specific assignments and materials for each class session will be located in their own folder in this repository. This schedule is meant to serve as an overview of the course trajectory.*
 
-#### Sept 4 & 6: Intros, HTML/CSS, Javascript Review
+#### Sept 4 & 6: Intros, Web app presentations
 
-#### Sept 11 & 13: Javascript Objects
+#### Sept 11 & 13: Javascript Review: Arrays, Functions, Conditionals, Javascript Objects, Command Line, Git/Github
 
 #### Sept 18 & 20: JSON/APIs, Sept 20 special session on accessibility with Claire Kearney-Volpe
 
