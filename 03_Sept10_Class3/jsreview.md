@@ -18,7 +18,64 @@ var thisIsFun = true; 	// a boolean
 
 NOTE: Javascript will NOT complain if you don't have the ```var``` keyword. But NEVER do this because it will put that variable in the global scope.
 
-ANOTHER NOTE: You may have seen Javascript variables defined with const or let. This is how ES6 treats variables and is more specific. However, node.js utilizes ES5, so we will continue with the var syntax. To read more on the difference between these definitions [click here](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75).
+To further confuse things, let's introduce the ES6 way of declaring variables. The short answer is this: ```const``` before ```let```, ```let``` before ```var```. Prioritise read-only variables within your code. This reduces the risk of accidental reassignments and unintentional value changes. 
+
+To read more on the difference between these definitions [click here](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75) or [here](https://codeburst.io/const-let-and-var-which-and-when-541a2721c18)
+
+```const``` is short for constant. Variables assigned with ```const``` are: 
+
+* read-only
+
+* cant’ be redeclared or reassigned
+
+Variables assigned with ```let``` are very similar to those defined with ```var```. The major difference is scope. Variables assigned with ```let``` have block scope. This means the variable can be seen within that block and any sub-blocks. Variables assigned with ```var``` have functional scope and ignore block scoping rules.
+
+```javascript
+// define MY_FAV as a constant and give it the value 7
+const MY_FAV = 7;
+
+// this will throw an error - Uncaught TypeError: Assignment to constant variable.
+MY_FAV = 20;
+
+// MY_FAV is 7
+console.log('my favorite number is: ' + MY_FAV);
+
+// trying to redeclare a constant throws an error -  Uncaught SyntaxError: Identifier 'MY_FAV' has already been declared
+const MY_FAV = 20;
+
+// the name MY_FAV is reserved for constant above, so this will fail too
+var MY_FAV = 20;
+
+// this throws an error too
+let MY_FAV = 20;
+
+```
+compared to:
+
+```javascript
+
+function varTest() {
+  var x = 1;
+  if (true) {
+    var x = 2;  // same variable!
+    console.log(x);  // 2
+  }
+  console.log(x);  // 2
+}
+
+function letTest() {
+  let x = 1;
+  if (true) {
+    let x = 2;  // different variable
+    console.log(x);  // 2
+  }
+  console.log(x);  // 1
+}
+
+```
+
+
+In almost all cases, opt for ```const``` first. You want the majority of your assignments to be read-only in order to avoid potential issues down the line. Only use the ```let``` keyword when you know that a variable will have a dynamic value.
 
 
 ## Strings
