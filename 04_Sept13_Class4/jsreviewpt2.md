@@ -1,3 +1,28 @@
+### A note on Equality
+
+*All people should be offered equal rights.*
+
+Aside from that, Javascript deals with equality a little differently than other programming languages. 
+
+When using triple equals === in JavaScript, we are testing for strict equality. This means both the type and the value we are comparing have to be the same.
+
+So, 
+
+```javascript
+5 === 5 //returns true
+
+'this class is awesome' === 'this class is awesome' //also returns true
+
+```
+But,
+
+```javascript
+77 === '77' // returns false
+
+77 == '77' //returns true because of type coercion when there are only two ==. JavaScript will actually try to convert our values into a like type.
+```
+
+
 ### Callback functions
 Javascript is frequently **asynchronous**. This means that multiple things can be happening at once, and that code is NOT ALWAYS executed in the order that its written in.
 
