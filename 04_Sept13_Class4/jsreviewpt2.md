@@ -146,30 +146,6 @@ var name = new Person("Sarah Dahnke");
 console.log(name.getFullName()); //returns the string from our getFullname function: "Sarah Dahnke"
 ```
 
-## Scope
-a quick note on scope: variables exist with the function that they are declared, NOT with pairs of braces like other languages. SO:
-
-```javascript
-function whatever() {
-	if (1 == 1) {
-		var hello = true;
-	}
-	console.log(hello); // prints true
-}
-console.log(hello) //undefined!
-
-
-// apartmentTwo will have access to things declared in apartmentOne, but not the other way around.
-function apartmentOne() {
-	var iLiveInOne = true;
-	function apartmentTwo() {
-		var iLiveInTwo = true;
-		console.log(iLiveInOne) // prints true!
-	}
-	console.log(iLiveInTwo) // undefined
-}
-
-```
 
 ## What is "this"?
 You may have noticed that in the object examples we used the ```this``` keyword. ```this``` can be a difficult concept to explain. I think the best way of looking at it is as **context**. If you use ```this``` within an object method, ```this``` will equal the object itself. If you use ```this``` outside an object method, ```this``` will equal the global or window context.
