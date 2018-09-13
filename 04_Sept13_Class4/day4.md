@@ -9,9 +9,9 @@ More foundational JS:
 
 * Functions as variables
 
-* Functions with fat arrows (ES6)
-
 * JS objects
+
+* Functions with fat arrows (ES6)
 
 Git and Github review
 
