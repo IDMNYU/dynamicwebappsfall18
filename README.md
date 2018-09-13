@@ -96,7 +96,7 @@ Grades will be determined according to the following breakdown:
 
 **Regular Assignments 25%**
 
-We will have weekly assignments that are relevant to material from the previous class. When it is assigned, each assignment will contain a breakdown of how many points it is worth and the grading criteria. Most assignments will include a Learning Log, where you will be asked to provide some assessment of your clarity on a topic after doing a tutorial. Please refer to the Learning Logs file in this repository for more instructions.
+We will have weekly assignments that are relevant to material from the previous class. When it is assigned, each assignment will contain a breakdown of how many points it is worth and the grading criteria. Most assignments will include a Learning Log, where you will be asked to provide some assessment of your clarity on a topic after doing a tutorial. Please refer to the Learning Logs file in this repository for more instructions. Late assignments will lose a point for each day they are late.
 
 **Mid-Term Project 20%**
 
