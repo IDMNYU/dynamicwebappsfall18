@@ -121,29 +121,37 @@ NOTE: don't forget to put a ```,``` after each value or your code will break.
 
 
 ### Object Oriented Programming
-Javascript doesn't exactly have classes. ANY function can act as a constructor function when you use the ```new``` keyword.
+All JavaScript objects inherit properties and methods from a prototype.
 
 ```javascript
-function Person(firstName, lastName) {
-	this.firstName = firstName;
-	this.lastName = lastName;
+function Person(first, last, age, eyecolor) {
+    this.firstName = first;
+    this.lastName = last;
+    this.age = age;
+    this.eyeColor = eyecolor;
 }
-
-var sarah = new Person("Sarah", "Dahnke");
-sarah.firstName // returns "Sarah"
+Person.prototype.city = "Brooklyn";
 ```
 
-It can be convenient to create objects this way when need multiple objects that all behave the same way.
-
-To add methods to our class, we use the following syntax:
+The JavaScript prototype property also allows you to add new methods to objects constructors:
 
 ```javascript
-Person.prototype.getFullName = function() {
-	return this.firstName + " " + this.lastName;
+function Person(first, last, age, eyecolor) {
+    this.firstName = first;
+    this.lastName = last;
+    this.age = age;
+    this.eyeColor = eyecolor;
 }
+Person.prototype.name = function() {
+    return this.firstName + " " + this.lastName;
+};
+```
+You can also create new instances of an object:
 
-var name = new Person("Sarah Dahnke");
-console.log(name.getFullName()); //returns the string from our getFullname function: "Sarah Dahnke"
+```
+var myFather = new Person("John", "Doe", 50, "blue");
+
+console.log(myFather) //prints the information included inside of the new myFather object
 ```
 
 
