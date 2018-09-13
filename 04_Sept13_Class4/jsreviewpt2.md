@@ -129,8 +129,8 @@ function Person(firstName, lastName) {
 	this.lastName = lastName;
 }
 
-var name = new Person("Sarah", "Dahnke");
-sam.firstName // returns "Sarah"
+var sarah = new Person("Sarah", "Dahnke");
+sarah.firstName // returns "Sarah"
 ```
 
 It can be convenient to create objects this way when need multiple objects that all behave the same way.
