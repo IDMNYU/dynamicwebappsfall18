@@ -143,7 +143,7 @@ Person.prototype.getFullName = function() {
 }
 
 var name = new Person("Sarah Dahnke");
-console.log(name.getFullName()); //returns the string from our getFullname function: "Sarah Rose Dahnke"
+console.log(name.getFullName()); //returns the string from our getFullname function: "Sarah Dahnke"
 ```
 
 ## Scope
