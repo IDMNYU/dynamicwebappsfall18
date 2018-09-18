@@ -18,3 +18,24 @@ Post to Slack in the logs channel for this course. Begin message with "#LL: desc
 * Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.
 
 (The tutorial you do could also be via a book—in that case, list the name of the book instead of the URL, and include the chapter and pages.)
+
+Learning Logs Presentaton schedule:
+
+Sept 25:
+
+Sept 27:
+
+Oct 2: 
+
+Oct 4:
+
+Oct 11:
+
+Oct 16:
+
+Oct 18:
+
+Oct 23:
+
+Oct 25:
+
