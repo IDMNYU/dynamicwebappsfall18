@@ -1,6 +1,6 @@
 ## Day 7
 
-* Learning Logs presentations: Ranti and Jorge
+* Learning Logs presentations: Carolyn and Jorge
 
 * Anything you'd like to demo from the homework?
 
