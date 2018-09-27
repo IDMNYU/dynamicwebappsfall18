@@ -1,6 +1,6 @@
 ## Day 7
 
-* Learning Logs presentations: Ranti and Jorge
+* Learning Logs presentations: Carolyn and Jorge
 
 * Anything you'd like to demo from the homework?
 
@@ -16,7 +16,7 @@ LOTS OF HELPFUL LINKS AND A GRABBAG OF INFO WE NEED FOR TODAY:
 
     * [CORS Errors with Chrome](https://developer.chrome.com/extensions/xhr)
     
-    *[Same Origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy)
+    * [Same Origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy)
     
 * [Setting Up A Local Testing Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 

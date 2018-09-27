@@ -21,7 +21,7 @@ Post to Slack in the logs channel for this course. Begin message with "#LL: desc
 
 Learning Logs Presentaton schedule:
 
-Sept 25: Ranti, Jorge
+Sept 25: Carolyn, Jorge
 
 Sept 27: Jeremy
 
@@ -29,7 +29,7 @@ Oct 2: Alex, Chri
 
 Oct 4: Joanna
 
-Oct 11: Maya, Carolyn
+Oct 11: Maya, Ranti
 
 Oct 16: Hung
 
