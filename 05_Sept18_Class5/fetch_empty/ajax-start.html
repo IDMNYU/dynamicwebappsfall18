@@ -57,8 +57,33 @@
 
     <script>
         
-
-
+            var verseChoose = document.querySelector('select');
+            var poemDisplay = document.querySelector('pre');
+        
+            verseChoose.onchange = function() {
+                var verse = verseChoose.value;
+                updateDisplay(verse);
+            };
+        
+        //this function should remove the space inside of the text in the option tag, lowercase everything and add a .txt file extension
+        function updateDisplay(verse){
+            //replace the space in the string with no space
+            //convert text to lowercase
+            //concatenate the .txt file extension with the returned text
+            verse = verse.replace(" ", "").toLowerCase();
+            //verse = verse.toLowerCase();
+            var url = verse + ".txt"
+            
+            fetch(url).then(function(response) {
+            response.text().then(function(text){
+            poemDisplay.textContent = text;
+                console.log(text);
+                });   
+            });
+        };
+        
+        updateDisplay('Verse 1');
+        verseChoose.value = 'Verse1';
         
     </script>
   </body>
