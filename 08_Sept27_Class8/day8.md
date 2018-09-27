@@ -10,7 +10,6 @@
     
     * Working with modules
     
-    * Setting up a server with callbacks
     
 * Exercise: 
 
@@ -44,6 +43,8 @@ console.log(intersection);
 ```
 
 ### Homework:
+
+* For Tuesday: Set up a dummy Twitter account. You will have to set it up with a different email address than your main Twitter account if you already have one. We are going to use this as our Twitterbot, and each account will have its own unique API key.
 
 * Read [The Only node.js Introduction You Will Ever Need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 
