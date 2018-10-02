@@ -25,7 +25,7 @@ Sept 25: Carolyn, Jorge
 
 Sept 27: Jeremy
 
-Oct 2: Alex, Chri
+Oct 2: Alex, Chris
 
 Oct 4: Joanna
 
