@@ -31,11 +31,11 @@ Oct 4: Joanna
 
 Oct 11: Maya, Ranti
 
-Oct 16: Hung
+Oct 16: NO PRESENTATIONS
 
 Oct 18: Leo, Rudhi
 
-Oct 23: Alana
+Oct 23: Hung
 
 Oct 25: Zafir 
 
