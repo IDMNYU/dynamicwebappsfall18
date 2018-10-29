@@ -37,17 +37,17 @@ Oct 18: Leo, Rudhi
 
 Oct 23: Hung
 
-Oct 25: Zafir 
+Oct 30: Zafir 
 
-Oct 30: Miranda
+Nov 1: Miranda
 
-Nov 1: Sawyer
+Nov 6: Sawyer
 
-Nov 6: Prakriti
+Nov 8: Prakriti
 
-Nov 8: Abhi
+Nov 13: Abhi
 
-Nov 13: Ari 
+Nov 15: Ari 
 
-Nov 15: Alejandra
+Nov 20: Alejandra
 
