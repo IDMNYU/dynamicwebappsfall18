@@ -2,7 +2,7 @@
 
 * Learning Log: Zafir
 
-* FS Homework review: Alex, Jeremy, Chris, Alejandra
+* FS Homework review: Carolyn, Jeremy, Chris, Alejandra
 
 * Creating the view: working with EJS
     
