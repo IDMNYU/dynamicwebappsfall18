@@ -2,7 +2,7 @@
 
 * Learning Log: Zafir
 
-* FS Homework review: Alex, Jeremy, Chris, Alejandra
+* FS Homework review: Carolyn, Jeremy, Chris, Alejandra
 
 * Creating the view: working with EJS
     
@@ -26,6 +26,6 @@
 
 ### Homework
 
-* We will be building a mini Express app in class on Tuesday. It will take in user input via a form, process it in your server-side JS file, and Express will route a response to a new view. 
+* We will be building a mini Express app in class on Thursday. It will take in user input via a form, process it in your server-side JS file, and Express will route a response to a new view. 
 This is a great time to do a Learning Log if any of these pieces are fuzzy. Do you need help with Express routing? Rendering the view? Working more with the Node File System?
 
