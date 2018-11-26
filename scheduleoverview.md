@@ -22,15 +22,15 @@
 
 #### Oct 30 & Nov 1: JSON as a database, Mini Express Project
 
-#### Nov 6 & 8: Databases
+#### Nov 6 & 8: Express Projects continued
 
-#### Nov 13 & 15: Chrome Extensions and Bookmarklets
+#### Nov 13 & 15: socket.io
 
-#### Nov 20: Final Project Proposals
+#### Nov 20: socket.io
 
 #### NO CLASS NOV 22
 
-#### Nov 27 & 29: Remaining topics--student request
+#### Nov 27 & 29: Databases and Deployment
 
 #### Dec 4 & 6: Final Project Workshop
 
