@@ -16,4 +16,12 @@ Final Project Criteria:
 
 * Some design thought has been put into the front end
 
-* App is presented in a formal presentation that demonstrates process, working app, and code. (6 minutes to present, 4 minutes for clarifying questions and feedback.)
+* App is presented in a formal presentation that demonstrates process, working app, and code. (6 minutes to present, 4 minutes for clarifying questions and feedback.) Your app should be pushed to Github with an instructional README that tells other developers a) what the app does and b) how to install and run locally, including any dependencies.
+
+NOTE: All projects are due on December 11, regardless of presentation schedule.
+
+## Final Presentation Schedule
+
+December 11:
+
+December 13:
