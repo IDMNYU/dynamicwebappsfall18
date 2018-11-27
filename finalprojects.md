@@ -24,4 +24,36 @@ NOTE: All projects are due on December 11, regardless of presentation schedule.
 
 December 11:
 
+1. Ranti
+
+2. Sawyer
+
+3. Abhi/Zafir/Alejandra
+
+4. Maya
+
+5. Prakriti
+
+6. Carolyn
+
+7. Jorge
+
+8. Alex
+
 December 13:
+
+1. Ari
+
+2. Joanna
+
+3. Rudhi
+
+4. Hung
+
+5. Chris
+
+6. Jeremy
+
+7. Leo
+
+8. Miranda
