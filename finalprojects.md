@@ -26,7 +26,7 @@ December 11:
 
 1. Ranti
 
-2. Sawyer
+2. Sawyer/Ari
 
 3. Abhi/Zafir/Alejandra
 
@@ -42,18 +42,16 @@ December 11:
 
 December 13:
 
-1. Ari
+1. Joanna
 
-2. Joanna
+2. Rudhi
 
-3. Rudhi
+3. Hung
 
-4. Hung
+4. Chris
 
-5. Chris
+5. Jeremy
 
-6. Jeremy
+6. Leo
 
-7. Leo
-
-8. Miranda
+7. Miranda
